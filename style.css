@@ -1,7 +1,11 @@
+html{
+
+    background-color: rgb(34, 208, 214);
+}
 h1{
 
-    color: red;
-    font: arial 20px;
+    color: rgb(117, 34, 34);
+    font: arial black;
     text-align: center;
 
 }
